@@ -1,6 +1,6 @@
 # Coding Exercise: Cleaning RNA-seq Data
 
-This exercise takes about **40 minutes**. There is no single correct solution: we care about your reasoning and how you document it more than about a perfect result. 
+This exercise takes about **40 minutes to 1 hour**. There is no single correct solution: we care about your reasoning and how you document it more than about a perfect result. 
 
 ## The situation
 
