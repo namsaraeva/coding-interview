@@ -1,0 +1,11 @@
+sample_id,condition,sequencing_date,rin
+S1,control,2024-02-06,8.2
+S02,Control,2024-02-20,9.8
+s3,ctrl,2024-02-18,9.4
+s3,ctrl,2024-02-18,9.4
+Sample 4,untreated,2024-02-13,9.4
+S5,treated,2024-02-13,8.2
+S06,Treated,2024-02-22,3.1
+sample_7,drug,2024-02-06,8.7
+S8,treated,2024-02-18,9.7
+S9,treated,2024-02-21,2.4
