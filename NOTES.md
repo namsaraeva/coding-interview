@@ -74,3 +74,4 @@ Alternative: sum rows, rejected because it would double their expression.
 ---
 
 ## Tools used (docs, AI assistants, ...)
+I used ChatGPT AI in this assignment.
